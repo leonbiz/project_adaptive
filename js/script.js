@@ -1,4 +1,4 @@
-var name = "Ivan";
+var name = "Vladimir";
 
 let number = 7;
 const pi = 3.14;
